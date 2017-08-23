@@ -1,9 +1,9 @@
 # SIC-Assembler
 C++ implementation of SIC Assembler.
 
-Basic assembler functions :
-Translating mnemonic operation codes to their machine language equivalents
-Assigning machine addresses to symbolic labels
+Basic assembler functions :                                                                                                     
+Translating mnemonic operation codes to their machine language equivalents.                                                     
+Assigning machine addresses to symbolic labels.
 Write the object program and the assembly listing
 
 Assembler directives :
